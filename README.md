@@ -1,6 +1,6 @@
 # Introductory Quantum Programming using Rigetti Forest and Grove
 <br>
-## Set of Jupyter Notebooks exploring various features of the Rigetti Forest &amp; Grove using pyQuil<br><br>
+Set of Jupyter Notebooks exploring various features of the Rigetti Forest &amp; Grove using pyQuil<br><br>
 
 Please check out the [reference material](https://github.com/markf94/rigetti_training_material) from Rigetti's training session at the Creative Destruction Lab for Quantum Machine Learning 2018 batch. They contain some basic theoretical introduction to most of the code in these notebooks.<br><br>
 To get started, ensure that you have Python 3.5 or higher installed. Donwnload the requirements.txt file or clone the whole repository, navigate to the file location and then run the following commands in the terminal<br>
